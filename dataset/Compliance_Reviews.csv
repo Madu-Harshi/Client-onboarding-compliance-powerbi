@@ -1,0 +1,394 @@
+Review_ID,Application_ID,Customer_ID,Review_Date,Reviewer,Review_Type,Outcome,Review_Duration_Days,Review_Notes
+REV00001,APP00004,C00004,2025-09-06,Antti Laine,Enhanced Due Diligence,Approved,4,Compliance review completed successfully.
+REV00002,APP00011,C00011,2025-04-03,Janne Koskinen,KYC,Approved,3,Compliance review completed successfully.
+REV00003,APP00031,C00031,2025-09-22,Maria Heikkinen,KYC,Approved,12,Compliance review completed successfully.
+REV00004,APP00038,C00038,2025-05-30,Sanna Virtanen,KYC,Approved,6,Compliance review completed successfully.
+REV00005,APP00042,C00042,2025-06-16,Janne Koskinen,KYC,Further Review,6,Additional documentation or review required.
+REV00006,APP00055,C00055,2025-10-15,Laura Nieminen,Enhanced Due Diligence,Approved,11,Compliance review completed successfully.
+REV00007,APP00065,C00065,2025-09-10,Laura Nieminen,Sanctions Screening,Approved,6,Compliance review completed successfully.
+REV00008,APP00077,C00077,2025-05-16,Laura Nieminen,AML,Rejected,11,Compliance concerns identified during review.
+REV00009,APP00084,C00084,2025-04-28,Maria Heikkinen,AML,Further Review,5,Additional documentation or review required.
+REV00010,APP00098,C00098,2025-09-08,Janne Koskinen,AML,Approved,5,Compliance review completed successfully.
+REV00011,APP00107,C00107,2025-01-06,Maria Heikkinen,KYC,Approved,10,Compliance review completed successfully.
+REV00012,APP00112,C00112,2025-01-30,Laura Nieminen,Enhanced Due Diligence,Further Review,7,Additional documentation or review required.
+REV00013,APP00114,C00114,2025-11-27,Sanna Virtanen,KYC,Rejected,8,Compliance concerns identified during review.
+REV00014,APP00119,C00119,2025-10-02,Antti Laine,KYC,Further Review,6,Additional documentation or review required.
+REV00015,APP00122,C00122,2025-08-25,Antti Laine,Enhanced Due Diligence,Approved,2,Compliance review completed successfully.
+REV00016,APP00127,C00127,2025-01-06,Sanna Virtanen,Enhanced Due Diligence,Rejected,9,Compliance concerns identified during review.
+REV00017,APP00128,C00128,2025-07-01,Maria Heikkinen,Enhanced Due Diligence,Rejected,8,Compliance concerns identified during review.
+REV00018,APP00137,C00137,2025-08-24,Janne Koskinen,Enhanced Due Diligence,Further Review,3,Additional documentation or review required.
+REV00019,APP00142,C00142,2025-01-22,Janne Koskinen,Sanctions Screening,Approved,2,Compliance review completed successfully.
+REV00020,APP00161,C00161,2025-07-10,Maria Heikkinen,Enhanced Due Diligence,Approved,4,Compliance review completed successfully.
+REV00021,APP00162,C00162,2025-09-01,Sanna Virtanen,Enhanced Due Diligence,Approved,12,Compliance review completed successfully.
+REV00022,APP00177,C00177,2025-02-12,Laura Nieminen,AML,Further Review,13,Additional documentation or review required.
+REV00023,APP00219,C00219,2025-08-15,Mikko Korhonen,Sanctions Screening,Rejected,8,Compliance concerns identified during review.
+REV00024,APP00220,C00220,2025-03-27,Sanna Virtanen,KYC,Approved,6,Compliance review completed successfully.
+REV00025,APP00227,C00227,2025-01-07,Janne Koskinen,Enhanced Due Diligence,Approved,4,Compliance review completed successfully.
+REV00026,APP00233,C00233,2025-05-13,Maria Heikkinen,KYC,Further Review,12,Additional documentation or review required.
+REV00027,APP00240,C00240,2025-08-02,Sanna Virtanen,Enhanced Due Diligence,Approved,9,Compliance review completed successfully.
+REV00028,APP00243,C00243,2025-05-13,Laura Nieminen,AML,Approved,4,Compliance review completed successfully.
+REV00029,APP00244,C00244,2025-05-23,Mikko Korhonen,KYC,Approved,6,Compliance review completed successfully.
+REV00030,APP00247,C00247,2025-12-28,Janne Koskinen,KYC,Approved,3,Compliance review completed successfully.
+REV00031,APP00251,C00251,2025-12-28,Antti Laine,AML,Approved,10,Compliance review completed successfully.
+REV00032,APP00311,C00311,2025-06-21,Sanna Virtanen,KYC,Approved,7,Compliance review completed successfully.
+REV00033,APP00315,C00315,2025-04-14,Janne Koskinen,Enhanced Due Diligence,Further Review,9,Additional documentation or review required.
+REV00034,APP00332,C00332,2025-10-29,Mikko Korhonen,AML,Approved,10,Compliance review completed successfully.
+REV00035,APP00340,C00340,2025-06-28,Laura Nieminen,KYC,Approved,9,Compliance review completed successfully.
+REV00036,APP00341,C00341,2025-05-11,Sanna Virtanen,Enhanced Due Diligence,Rejected,6,Compliance concerns identified during review.
+REV00037,APP00358,C00358,2025-05-25,Mikko Korhonen,KYC,Approved,8,Compliance review completed successfully.
+REV00038,APP00367,C00367,2025-09-26,Laura Nieminen,Enhanced Due Diligence,Rejected,13,Compliance concerns identified during review.
+REV00039,APP00382,C00382,2025-09-06,Janne Koskinen,KYC,Approved,7,Compliance review completed successfully.
+REV00040,APP00388,C00388,2025-10-16,Sanna Virtanen,AML,Approved,4,Compliance review completed successfully.
+REV00041,APP00404,C00404,2025-06-06,Janne Koskinen,AML,Further Review,8,Additional documentation or review required.
+REV00042,APP00436,C00436,2025-02-09,Mikko Korhonen,KYC,Approved,9,Compliance review completed successfully.
+REV00043,APP00440,C00440,2025-06-27,Antti Laine,KYC,Approved,10,Compliance review completed successfully.
+REV00044,APP00453,C00453,2025-08-10,Laura Nieminen,Enhanced Due Diligence,Approved,9,Compliance review completed successfully.
+REV00045,APP00458,C00458,2025-09-26,Laura Nieminen,KYC,Approved,14,Compliance review completed successfully.
+REV00046,APP00459,C00459,2025-02-14,Janne Koskinen,AML,Rejected,6,Compliance concerns identified during review.
+REV00047,APP00465,C00465,2025-01-25,Sanna Virtanen,Sanctions Screening,Further Review,9,Additional documentation or review required.
+REV00048,APP00486,C00486,2025-01-24,Maria Heikkinen,KYC,Approved,13,Compliance review completed successfully.
+REV00049,APP00497,C00497,2025-03-27,Antti Laine,AML,Approved,5,Compliance review completed successfully.
+REV00050,APP00499,C00499,2025-05-09,Antti Laine,Enhanced Due Diligence,Approved,7,Compliance review completed successfully.
+REV00051,APP00505,C00505,2025-07-28,Antti Laine,KYC,Further Review,3,Additional documentation or review required.
+REV00052,APP00523,C00523,2025-04-04,Janne Koskinen,Enhanced Due Diligence,Further Review,9,Additional documentation or review required.
+REV00053,APP00531,C00531,2025-06-11,Janne Koskinen,Enhanced Due Diligence,Approved,10,Compliance review completed successfully.
+REV00054,APP00536,C00536,2025-05-31,Janne Koskinen,AML,Approved,8,Compliance review completed successfully.
+REV00055,APP00552,C00552,2025-11-04,Sanna Virtanen,Enhanced Due Diligence,Approved,4,Compliance review completed successfully.
+REV00056,APP00563,C00563,2025-04-25,Laura Nieminen,KYC,Approved,7,Compliance review completed successfully.
+REV00057,APP00584,C00584,2025-08-20,Maria Heikkinen,KYC,Approved,10,Compliance review completed successfully.
+REV00058,APP00599,C00599,2025-03-22,Sanna Virtanen,KYC,Approved,7,Compliance review completed successfully.
+REV00059,APP00606,C00606,2025-01-19,Mikko Korhonen,Enhanced Due Diligence,Approved,7,Compliance review completed successfully.
+REV00060,APP00614,C00614,2025-06-28,Sanna Virtanen,Sanctions Screening,Further Review,5,Additional documentation or review required.
+REV00061,APP00619,C00619,2025-11-10,Maria Heikkinen,Sanctions Screening,Further Review,8,Additional documentation or review required.
+REV00062,APP00620,C00620,2025-02-04,Janne Koskinen,Sanctions Screening,Approved,3,Compliance review completed successfully.
+REV00063,APP00624,C00624,2025-06-09,Janne Koskinen,Enhanced Due Diligence,Further Review,9,Additional documentation or review required.
+REV00064,APP00655,C00655,2025-08-24,Maria Heikkinen,KYC,Approved,12,Compliance review completed successfully.
+REV00065,APP00657,C00657,2025-10-31,Mikko Korhonen,AML,Rejected,8,Compliance concerns identified during review.
+REV00066,APP00672,C00672,2025-05-15,Maria Heikkinen,AML,Further Review,8,Additional documentation or review required.
+REV00067,APP00685,C00685,2025-04-20,Mikko Korhonen,KYC,Approved,7,Compliance review completed successfully.
+REV00068,APP00699,C00699,2025-11-24,Maria Heikkinen,Enhanced Due Diligence,Further Review,10,Additional documentation or review required.
+REV00069,APP00710,C00710,2025-07-17,Maria Heikkinen,AML,Further Review,7,Additional documentation or review required.
+REV00070,APP00746,C00746,2025-12-20,Sanna Virtanen,KYC,Further Review,6,Additional documentation or review required.
+REV00071,APP00801,C00801,2025-07-05,Sanna Virtanen,Sanctions Screening,Approved,3,Compliance review completed successfully.
+REV00072,APP00820,C00820,2025-11-08,Maria Heikkinen,AML,Approved,7,Compliance review completed successfully.
+REV00073,APP00822,C00822,2025-06-25,Maria Heikkinen,Enhanced Due Diligence,Further Review,13,Additional documentation or review required.
+REV00074,APP00833,C00833,2025-01-25,Maria Heikkinen,Enhanced Due Diligence,Approved,9,Compliance review completed successfully.
+REV00075,APP00867,C00867,2025-10-06,Sanna Virtanen,Sanctions Screening,Approved,5,Compliance review completed successfully.
+REV00076,APP00875,C00875,2025-08-22,Antti Laine,Sanctions Screening,Approved,4,Compliance review completed successfully.
+REV00077,APP00877,C00877,2025-05-15,Maria Heikkinen,AML,Approved,5,Compliance review completed successfully.
+REV00078,APP00878,C00878,2025-07-05,Laura Nieminen,AML,Approved,11,Compliance review completed successfully.
+REV00079,APP00905,C00905,2025-03-04,Mikko Korhonen,KYC,Approved,10,Compliance review completed successfully.
+REV00080,APP00920,C00920,2025-12-20,Laura Nieminen,KYC,Further Review,13,Additional documentation or review required.
+REV00081,APP00921,C00921,2025-08-30,Laura Nieminen,KYC,Rejected,6,Compliance concerns identified during review.
+REV00082,APP00925,C00925,2025-08-09,Janne Koskinen,Sanctions Screening,Approved,9,Compliance review completed successfully.
+REV00083,APP00936,C00936,2025-11-30,Janne Koskinen,KYC,Approved,5,Compliance review completed successfully.
+REV00084,APP00948,C00948,2026-01-03,Janne Koskinen,AML,Approved,7,Compliance review completed successfully.
+REV00085,APP00952,C00952,2025-08-16,Maria Heikkinen,Enhanced Due Diligence,Approved,11,Compliance review completed successfully.
+REV00086,APP00964,C00964,2025-04-10,Mikko Korhonen,Sanctions Screening,Approved,4,Compliance review completed successfully.
+REV00087,APP00982,C00982,2025-05-08,Sanna Virtanen,AML,Approved,5,Compliance review completed successfully.
+REV00088,APP01016,C01016,2025-01-20,Antti Laine,Enhanced Due Diligence,Approved,9,Compliance review completed successfully.
+REV00089,APP01020,C01020,2025-09-25,Antti Laine,KYC,Approved,12,Compliance review completed successfully.
+REV00090,APP01053,C01053,2025-07-30,Maria Heikkinen,Enhanced Due Diligence,Approved,8,Compliance review completed successfully.
+REV00091,APP01057,C01057,2025-10-16,Sanna Virtanen,AML,Further Review,10,Additional documentation or review required.
+REV00092,APP01090,C01090,2025-02-03,Sanna Virtanen,Sanctions Screening,Rejected,3,Compliance concerns identified during review.
+REV00093,APP01100,C01100,2025-04-18,Maria Heikkinen,KYC,Approved,4,Compliance review completed successfully.
+REV00094,APP01108,C01108,2025-07-11,Mikko Korhonen,KYC,Approved,7,Compliance review completed successfully.
+REV00095,APP01113,C01113,2025-07-02,Antti Laine,Sanctions Screening,Rejected,2,Compliance concerns identified during review.
+REV00096,APP01136,C01136,2025-08-30,Sanna Virtanen,AML,Further Review,3,Additional documentation or review required.
+REV00097,APP01138,C01138,2025-01-18,Maria Heikkinen,KYC,Approved,14,Compliance review completed successfully.
+REV00098,APP01139,C01139,2025-05-23,Laura Nieminen,Enhanced Due Diligence,Approved,5,Compliance review completed successfully.
+REV00099,APP01165,C01165,2025-09-12,Antti Laine,AML,Rejected,9,Compliance concerns identified during review.
+REV00100,APP01186,C01186,2025-11-30,Mikko Korhonen,Sanctions Screening,Approved,4,Compliance review completed successfully.
+REV00101,APP01192,C01192,2025-03-14,Antti Laine,Sanctions Screening,Approved,9,Compliance review completed successfully.
+REV00102,APP01197,C01197,2025-08-28,Mikko Korhonen,KYC,Approved,9,Compliance review completed successfully.
+REV00103,APP01203,C01203,2025-04-14,Laura Nieminen,Sanctions Screening,Approved,10,Compliance review completed successfully.
+REV00104,APP01206,C01206,2025-05-23,Janne Koskinen,Enhanced Due Diligence,Further Review,5,Additional documentation or review required.
+REV00105,APP01215,C01215,2025-06-17,Laura Nieminen,KYC,Rejected,10,Compliance concerns identified during review.
+REV00106,APP01219,C01219,2025-06-01,Antti Laine,AML,Approved,14,Compliance review completed successfully.
+REV00107,APP01233,C01233,2025-07-09,Maria Heikkinen,Enhanced Due Diligence,Further Review,4,Additional documentation or review required.
+REV00108,APP01242,C01242,2025-08-07,Antti Laine,AML,Approved,3,Compliance review completed successfully.
+REV00109,APP01250,C01250,2025-06-17,Antti Laine,KYC,Approved,9,Compliance review completed successfully.
+REV00110,APP01256,C01256,2025-03-28,Mikko Korhonen,AML,Approved,8,Compliance review completed successfully.
+REV00111,APP01278,C01278,2025-12-13,Sanna Virtanen,Sanctions Screening,Approved,8,Compliance review completed successfully.
+REV00112,APP01286,C01286,2025-10-29,Antti Laine,Sanctions Screening,Further Review,8,Additional documentation or review required.
+REV00113,APP01308,C01308,2025-12-20,Antti Laine,Enhanced Due Diligence,Approved,6,Compliance review completed successfully.
+REV00114,APP01313,C01313,2025-01-10,Mikko Korhonen,AML,Rejected,7,Compliance concerns identified during review.
+REV00115,APP01317,C01317,2025-01-10,Janne Koskinen,AML,Approved,14,Compliance review completed successfully.
+REV00116,APP01326,C01326,2025-04-21,Laura Nieminen,Enhanced Due Diligence,Further Review,6,Additional documentation or review required.
+REV00117,APP01328,C01328,2025-09-24,Antti Laine,Sanctions Screening,Approved,3,Compliance review completed successfully.
+REV00118,APP01332,C01332,2025-06-15,Laura Nieminen,AML,Approved,7,Compliance review completed successfully.
+REV00119,APP01348,C01348,2025-02-27,Mikko Korhonen,Sanctions Screening,Approved,7,Compliance review completed successfully.
+REV00120,APP01350,C01350,2025-09-16,Mikko Korhonen,Enhanced Due Diligence,Approved,4,Compliance review completed successfully.
+REV00121,APP01360,C01360,2025-04-27,Sanna Virtanen,AML,Approved,6,Compliance review completed successfully.
+REV00122,APP01364,C01364,2025-05-04,Janne Koskinen,AML,Approved,9,Compliance review completed successfully.
+REV00123,APP01378,C01378,2025-12-03,Maria Heikkinen,Sanctions Screening,Approved,3,Compliance review completed successfully.
+REV00124,APP01399,C01399,2025-02-03,Mikko Korhonen,AML,Further Review,3,Additional documentation or review required.
+REV00125,APP01406,C01406,2025-04-13,Mikko Korhonen,Sanctions Screening,Approved,6,Compliance review completed successfully.
+REV00126,APP01411,C01411,2025-04-28,Maria Heikkinen,Enhanced Due Diligence,Approved,6,Compliance review completed successfully.
+REV00127,APP01418,C01418,2025-04-06,Maria Heikkinen,Sanctions Screening,Approved,5,Compliance review completed successfully.
+REV00128,APP01426,C01426,2025-06-30,Janne Koskinen,Sanctions Screening,Approved,8,Compliance review completed successfully.
+REV00129,APP01448,C01448,2025-10-09,Antti Laine,Sanctions Screening,Approved,6,Compliance review completed successfully.
+REV00130,APP01467,C01467,2025-06-04,Laura Nieminen,Enhanced Due Diligence,Approved,9,Compliance review completed successfully.
+REV00131,APP01473,C01473,2025-08-20,Laura Nieminen,AML,Approved,3,Compliance review completed successfully.
+REV00132,APP01477,C01477,2025-08-11,Janne Koskinen,Sanctions Screening,Further Review,7,Additional documentation or review required.
+REV00133,APP01479,C01479,2025-08-26,Laura Nieminen,KYC,Approved,6,Compliance review completed successfully.
+REV00134,APP01500,C01500,2025-08-21,Sanna Virtanen,KYC,Approved,8,Compliance review completed successfully.
+REV00135,APP01503,C01503,2025-05-26,Antti Laine,KYC,Approved,5,Compliance review completed successfully.
+REV00136,APP01520,C01520,2025-10-24,Laura Nieminen,Sanctions Screening,Approved,10,Compliance review completed successfully.
+REV00137,APP01536,C01536,2025-05-06,Maria Heikkinen,Enhanced Due Diligence,Further Review,15,Additional documentation or review required.
+REV00138,APP01537,C01537,2025-09-20,Maria Heikkinen,KYC,Approved,10,Compliance review completed successfully.
+REV00139,APP01555,C01555,2025-02-17,Maria Heikkinen,AML,Approved,3,Compliance review completed successfully.
+REV00140,APP01556,C01556,2025-02-10,Mikko Korhonen,AML,Approved,4,Compliance review completed successfully.
+REV00141,APP01569,C01569,2025-09-11,Sanna Virtanen,Sanctions Screening,Approved,5,Compliance review completed successfully.
+REV00142,APP01593,C01593,2025-11-10,Sanna Virtanen,Sanctions Screening,Approved,4,Compliance review completed successfully.
+REV00143,APP01673,C01673,2025-12-22,Antti Laine,KYC,Further Review,3,Additional documentation or review required.
+REV00144,APP01680,C01680,2025-04-03,Antti Laine,Sanctions Screening,Approved,3,Compliance review completed successfully.
+REV00145,APP01682,C01682,2025-03-26,Sanna Virtanen,Sanctions Screening,Rejected,6,Compliance concerns identified during review.
+REV00146,APP01684,C01684,2025-07-21,Laura Nieminen,Enhanced Due Diligence,Approved,7,Compliance review completed successfully.
+REV00147,APP01687,C01687,2025-06-16,Sanna Virtanen,Enhanced Due Diligence,Further Review,8,Additional documentation or review required.
+REV00148,APP01690,C01690,2025-04-22,Antti Laine,KYC,Approved,2,Compliance review completed successfully.
+REV00149,APP01691,C01691,2025-07-09,Antti Laine,KYC,Approved,4,Compliance review completed successfully.
+REV00150,APP01692,C01692,2025-02-04,Mikko Korhonen,Sanctions Screening,Approved,5,Compliance review completed successfully.
+REV00151,APP01704,C01704,2025-07-18,Sanna Virtanen,Sanctions Screening,Rejected,7,Compliance concerns identified during review.
+REV00152,APP01719,C01719,2025-09-02,Maria Heikkinen,AML,Approved,6,Compliance review completed successfully.
+REV00153,APP01747,C01747,2025-09-08,Maria Heikkinen,KYC,Rejected,9,Compliance concerns identified during review.
+REV00154,APP01750,C01750,2025-03-28,Laura Nieminen,KYC,Further Review,9,Additional documentation or review required.
+REV00155,APP01751,C01751,2025-09-15,Sanna Virtanen,AML,Further Review,6,Additional documentation or review required.
+REV00156,APP01756,C01756,2025-08-31,Janne Koskinen,KYC,Approved,9,Compliance review completed successfully.
+REV00157,APP01763,C01763,2025-06-10,Janne Koskinen,Sanctions Screening,Approved,7,Compliance review completed successfully.
+REV00158,APP01764,C01764,2025-05-24,Maria Heikkinen,KYC,Approved,3,Compliance review completed successfully.
+REV00159,APP01789,C01789,2025-01-27,Laura Nieminen,KYC,Further Review,15,Additional documentation or review required.
+REV00160,APP01805,C01805,2025-06-20,Janne Koskinen,AML,Approved,11,Compliance review completed successfully.
+REV00161,APP01812,C01812,2025-01-26,Laura Nieminen,Enhanced Due Diligence,Approved,8,Compliance review completed successfully.
+REV00162,APP01815,C01815,2025-12-27,Sanna Virtanen,Enhanced Due Diligence,Approved,11,Compliance review completed successfully.
+REV00163,APP01849,C01849,2025-04-02,Laura Nieminen,KYC,Approved,6,Compliance review completed successfully.
+REV00164,APP01863,C01863,2025-07-14,Maria Heikkinen,KYC,Approved,6,Compliance review completed successfully.
+REV00165,APP01881,C01881,2025-03-08,Maria Heikkinen,Sanctions Screening,Further Review,10,Additional documentation or review required.
+REV00166,APP01892,C01892,2025-05-16,Maria Heikkinen,Sanctions Screening,Approved,10,Compliance review completed successfully.
+REV00167,APP01900,C01900,2025-06-15,Mikko Korhonen,Enhanced Due Diligence,Approved,6,Compliance review completed successfully.
+REV00168,APP01902,C01902,2025-01-14,Laura Nieminen,KYC,Approved,10,Compliance review completed successfully.
+REV00169,APP01915,C01915,2025-12-18,Mikko Korhonen,KYC,Further Review,13,Additional documentation or review required.
+REV00170,APP01920,C01920,2025-10-30,Maria Heikkinen,Enhanced Due Diligence,Approved,7,Compliance review completed successfully.
+REV00171,APP01936,C01936,2025-06-27,Janne Koskinen,KYC,Approved,7,Compliance review completed successfully.
+REV00172,APP01950,C01950,2025-07-10,Laura Nieminen,Sanctions Screening,Rejected,9,Compliance concerns identified during review.
+REV00173,APP01954,C01954,2025-05-15,Maria Heikkinen,AML,Rejected,4,Compliance concerns identified during review.
+REV00174,APP01967,C01967,2025-10-22,Sanna Virtanen,KYC,Approved,2,Compliance review completed successfully.
+REV00175,APP01969,C01969,2025-09-14,Janne Koskinen,Sanctions Screening,Approved,11,Compliance review completed successfully.
+REV00176,APP01989,C01989,2025-08-30,Laura Nieminen,KYC,Approved,4,Compliance review completed successfully.
+REV00177,APP01995,C01995,2025-05-05,Sanna Virtanen,Enhanced Due Diligence,Further Review,6,Additional documentation or review required.
+REV00178,APP02033,C02033,2025-02-20,Janne Koskinen,KYC,Approved,6,Compliance review completed successfully.
+REV00179,APP02060,C02060,2025-06-06,Laura Nieminen,KYC,Approved,7,Compliance review completed successfully.
+REV00180,APP02077,C02077,2025-07-08,Sanna Virtanen,KYC,Rejected,10,Compliance concerns identified during review.
+REV00181,APP02080,C02080,2025-08-08,Maria Heikkinen,AML,Rejected,10,Compliance concerns identified during review.
+REV00182,APP02088,C02088,2025-07-06,Laura Nieminen,KYC,Rejected,4,Compliance concerns identified during review.
+REV00183,APP02091,C02091,2025-09-27,Janne Koskinen,Enhanced Due Diligence,Rejected,7,Compliance concerns identified during review.
+REV00184,APP02124,C02124,2025-02-23,Antti Laine,KYC,Approved,3,Compliance review completed successfully.
+REV00185,APP02140,C02140,2025-11-29,Mikko Korhonen,KYC,Approved,5,Compliance review completed successfully.
+REV00186,APP02145,C02145,2025-05-20,Antti Laine,Sanctions Screening,Approved,4,Compliance review completed successfully.
+REV00187,APP02166,C02166,2025-03-01,Sanna Virtanen,AML,Approved,8,Compliance review completed successfully.
+REV00188,APP02191,C02191,2025-03-05,Janne Koskinen,KYC,Further Review,9,Additional documentation or review required.
+REV00189,APP02204,C02204,2025-12-04,Mikko Korhonen,Sanctions Screening,Further Review,9,Additional documentation or review required.
+REV00190,APP02219,C02219,2025-12-24,Laura Nieminen,AML,Rejected,11,Compliance concerns identified during review.
+REV00191,APP02223,C02223,2025-10-24,Sanna Virtanen,AML,Further Review,7,Additional documentation or review required.
+REV00192,APP02241,C02241,2025-09-09,Laura Nieminen,KYC,Further Review,5,Additional documentation or review required.
+REV00193,APP02248,C02248,2025-07-12,Janne Koskinen,KYC,Approved,11,Compliance review completed successfully.
+REV00194,APP02267,C02267,2025-10-20,Antti Laine,AML,Approved,4,Compliance review completed successfully.
+REV00195,APP02278,C02278,2025-04-05,Janne Koskinen,AML,Approved,3,Compliance review completed successfully.
+REV00196,APP02293,C02293,2025-09-12,Janne Koskinen,Enhanced Due Diligence,Approved,8,Compliance review completed successfully.
+REV00197,APP02295,C02295,2025-12-17,Laura Nieminen,KYC,Approved,7,Compliance review completed successfully.
+REV00198,APP02301,C02301,2025-12-08,Mikko Korhonen,Sanctions Screening,Further Review,3,Additional documentation or review required.
+REV00199,APP02312,C02312,2025-11-06,Janne Koskinen,Enhanced Due Diligence,Approved,2,Compliance review completed successfully.
+REV00200,APP02325,C02325,2025-04-06,Maria Heikkinen,Enhanced Due Diligence,Approved,3,Compliance review completed successfully.
+REV00201,APP02330,C02330,2025-07-30,Sanna Virtanen,KYC,Approved,7,Compliance review completed successfully.
+REV00202,APP02365,C02365,2025-10-11,Laura Nieminen,AML,Approved,3,Compliance review completed successfully.
+REV00203,APP02377,C02377,2025-03-04,Antti Laine,AML,Approved,4,Compliance review completed successfully.
+REV00204,APP02380,C02380,2025-11-02,Antti Laine,KYC,Rejected,9,Compliance concerns identified during review.
+REV00205,APP02394,C02394,2025-04-25,Laura Nieminen,Sanctions Screening,Further Review,10,Additional documentation or review required.
+REV00206,APP02395,C02395,2025-02-03,Janne Koskinen,AML,Approved,4,Compliance review completed successfully.
+REV00207,APP02397,C02397,2025-06-18,Laura Nieminen,Enhanced Due Diligence,Further Review,8,Additional documentation or review required.
+REV00208,APP02403,C02403,2025-11-03,Sanna Virtanen,KYC,Approved,9,Compliance review completed successfully.
+REV00209,APP02418,C02418,2025-08-12,Sanna Virtanen,KYC,Approved,4,Compliance review completed successfully.
+REV00210,APP02432,C02432,2025-02-15,Maria Heikkinen,AML,Further Review,7,Additional documentation or review required.
+REV00211,APP02433,C02433,2025-12-23,Janne Koskinen,Enhanced Due Diligence,Approved,14,Compliance review completed successfully.
+REV00212,APP02463,C02463,2025-01-26,Mikko Korhonen,KYC,Further Review,7,Additional documentation or review required.
+REV00213,APP02477,C02477,2025-08-19,Antti Laine,Sanctions Screening,Approved,11,Compliance review completed successfully.
+REV00214,APP02479,C02479,2025-03-31,Janne Koskinen,Enhanced Due Diligence,Approved,9,Compliance review completed successfully.
+REV00215,APP02498,C02498,2025-04-01,Janne Koskinen,AML,Approved,10,Compliance review completed successfully.
+REV00216,APP02502,C02502,2025-06-27,Mikko Korhonen,KYC,Rejected,8,Compliance concerns identified during review.
+REV00217,APP02522,C02522,2025-09-12,Antti Laine,KYC,Approved,8,Compliance review completed successfully.
+REV00218,APP02535,C02535,2025-10-12,Laura Nieminen,Sanctions Screening,Further Review,7,Additional documentation or review required.
+REV00219,APP02538,C02538,2025-08-03,Laura Nieminen,KYC,Approved,4,Compliance review completed successfully.
+REV00220,APP02544,C02544,2025-04-23,Antti Laine,AML,Approved,9,Compliance review completed successfully.
+REV00221,APP02553,C02553,2025-08-28,Mikko Korhonen,AML,Approved,10,Compliance review completed successfully.
+REV00222,APP02560,C02560,2025-08-28,Janne Koskinen,KYC,Approved,8,Compliance review completed successfully.
+REV00223,APP02564,C02564,2025-10-09,Mikko Korhonen,Enhanced Due Diligence,Rejected,5,Compliance concerns identified during review.
+REV00224,APP02568,C02568,2025-10-29,Janne Koskinen,KYC,Approved,2,Compliance review completed successfully.
+REV00225,APP02570,C02570,2025-05-21,Antti Laine,AML,Approved,7,Compliance review completed successfully.
+REV00226,APP02572,C02572,2025-04-22,Janne Koskinen,Sanctions Screening,Further Review,12,Additional documentation or review required.
+REV00227,APP02576,C02576,2025-05-02,Antti Laine,Enhanced Due Diligence,Approved,9,Compliance review completed successfully.
+REV00228,APP02595,C02595,2025-03-28,Laura Nieminen,KYC,Approved,10,Compliance review completed successfully.
+REV00229,APP02608,C02608,2025-05-17,Janne Koskinen,AML,Approved,7,Compliance review completed successfully.
+REV00230,APP02616,C02616,2025-06-04,Antti Laine,KYC,Further Review,12,Additional documentation or review required.
+REV00231,APP02622,C02622,2025-10-27,Mikko Korhonen,Enhanced Due Diligence,Rejected,3,Compliance concerns identified during review.
+REV00232,APP02623,C02623,2025-12-01,Laura Nieminen,Sanctions Screening,Approved,7,Compliance review completed successfully.
+REV00233,APP02629,C02629,2025-08-21,Janne Koskinen,Sanctions Screening,Further Review,10,Additional documentation or review required.
+REV00234,APP02636,C02636,2025-01-27,Laura Nieminen,KYC,Further Review,5,Additional documentation or review required.
+REV00235,APP02652,C02652,2025-08-15,Antti Laine,Sanctions Screening,Further Review,5,Additional documentation or review required.
+REV00236,APP02660,C02660,2025-11-27,Mikko Korhonen,Sanctions Screening,Rejected,8,Compliance concerns identified during review.
+REV00237,APP02665,C02665,2025-12-21,Mikko Korhonen,KYC,Approved,5,Compliance review completed successfully.
+REV00238,APP02666,C02666,2025-05-08,Laura Nieminen,Sanctions Screening,Approved,6,Compliance review completed successfully.
+REV00239,APP02667,C02667,2025-05-07,Laura Nieminen,AML,Further Review,9,Additional documentation or review required.
+REV00240,APP02679,C02679,2025-12-04,Janne Koskinen,AML,Rejected,7,Compliance concerns identified during review.
+REV00241,APP02680,C02680,2025-08-21,Maria Heikkinen,AML,Approved,10,Compliance review completed successfully.
+REV00242,APP02683,C02683,2025-05-04,Maria Heikkinen,Sanctions Screening,Further Review,8,Additional documentation or review required.
+REV00243,APP02685,C02685,2025-07-14,Laura Nieminen,KYC,Approved,5,Compliance review completed successfully.
+REV00244,APP02731,C02731,2025-04-02,Mikko Korhonen,KYC,Further Review,2,Additional documentation or review required.
+REV00245,APP02755,C02755,2025-06-10,Laura Nieminen,AML,Rejected,8,Compliance concerns identified during review.
+REV00246,APP02762,C02762,2025-04-21,Antti Laine,KYC,Approved,9,Compliance review completed successfully.
+REV00247,APP02763,C02763,2025-07-01,Antti Laine,Sanctions Screening,Approved,7,Compliance review completed successfully.
+REV00248,APP02793,C02793,2025-04-16,Maria Heikkinen,Enhanced Due Diligence,Further Review,7,Additional documentation or review required.
+REV00249,APP02796,C02796,2025-06-03,Maria Heikkinen,Sanctions Screening,Approved,10,Compliance review completed successfully.
+REV00250,APP02804,C02804,2025-05-26,Antti Laine,Enhanced Due Diligence,Approved,10,Compliance review completed successfully.
+REV00251,APP02809,C02809,2025-07-03,Maria Heikkinen,Enhanced Due Diligence,Approved,8,Compliance review completed successfully.
+REV00252,APP02833,C02833,2025-12-23,Janne Koskinen,KYC,Approved,12,Compliance review completed successfully.
+REV00253,APP02836,C02836,2025-07-15,Sanna Virtanen,KYC,Approved,5,Compliance review completed successfully.
+REV00254,APP02840,C02840,2025-07-08,Sanna Virtanen,Enhanced Due Diligence,Approved,6,Compliance review completed successfully.
+REV00255,APP02865,C02865,2025-10-15,Sanna Virtanen,Sanctions Screening,Approved,10,Compliance review completed successfully.
+REV00256,APP02871,C02871,2025-12-27,Antti Laine,AML,Approved,2,Compliance review completed successfully.
+REV00257,APP02876,C02876,2025-07-20,Antti Laine,Enhanced Due Diligence,Approved,12,Compliance review completed successfully.
+REV00258,APP02892,C02892,2025-04-03,Maria Heikkinen,KYC,Approved,4,Compliance review completed successfully.
+REV00259,APP02895,C02895,2025-08-02,Antti Laine,Enhanced Due Diligence,Approved,6,Compliance review completed successfully.
+REV00260,APP02909,C02909,2025-07-22,Antti Laine,KYC,Approved,5,Compliance review completed successfully.
+REV00261,APP02916,C02916,2025-12-04,Janne Koskinen,KYC,Approved,7,Compliance review completed successfully.
+REV00262,APP02934,C02934,2025-01-09,Janne Koskinen,Sanctions Screening,Further Review,15,Additional documentation or review required.
+REV00263,APP02935,C02935,2025-09-30,Janne Koskinen,AML,Approved,13,Compliance review completed successfully.
+REV00264,APP02936,C02936,2025-06-02,Antti Laine,AML,Approved,7,Compliance review completed successfully.
+REV00265,APP02949,C02949,2025-12-16,Sanna Virtanen,KYC,Approved,8,Compliance review completed successfully.
+REV00266,APP02959,C02959,2025-09-15,Maria Heikkinen,AML,Further Review,3,Additional documentation or review required.
+REV00267,APP02966,C02966,2025-01-28,Janne Koskinen,KYC,Approved,5,Compliance review completed successfully.
+REV00268,APP02967,C02967,2025-06-07,Sanna Virtanen,Enhanced Due Diligence,Approved,10,Compliance review completed successfully.
+REV00269,APP02971,C02971,2025-09-18,Laura Nieminen,Sanctions Screening,Approved,4,Compliance review completed successfully.
+REV00270,APP02973,C02973,2025-03-24,Sanna Virtanen,KYC,Approved,5,Compliance review completed successfully.
+REV00271,APP02976,C02976,2025-03-25,Maria Heikkinen,KYC,Approved,15,Compliance review completed successfully.
+REV00272,APP03006,C03006,2025-01-29,Maria Heikkinen,AML,Approved,10,Compliance review completed successfully.
+REV00273,APP03016,C03016,2025-01-06,Laura Nieminen,AML,Further Review,10,Additional documentation or review required.
+REV00274,APP03025,C03025,2025-04-09,Mikko Korhonen,AML,Approved,4,Compliance review completed successfully.
+REV00275,APP03029,C03029,2025-01-27,Janne Koskinen,AML,Approved,11,Compliance review completed successfully.
+REV00276,APP03032,C03032,2025-07-09,Antti Laine,AML,Further Review,5,Additional documentation or review required.
+REV00277,APP03044,C03044,2025-04-01,Sanna Virtanen,KYC,Approved,4,Compliance review completed successfully.
+REV00278,APP03045,C03045,2025-05-27,Mikko Korhonen,Enhanced Due Diligence,Approved,2,Compliance review completed successfully.
+REV00279,APP03054,C03054,2025-12-06,Sanna Virtanen,KYC,Approved,9,Compliance review completed successfully.
+REV00280,APP03058,C03058,2025-11-27,Antti Laine,KYC,Approved,7,Compliance review completed successfully.
+REV00281,APP03099,C03099,2025-12-01,Janne Koskinen,KYC,Approved,15,Compliance review completed successfully.
+REV00282,APP03106,C03106,2025-09-04,Maria Heikkinen,AML,Approved,3,Compliance review completed successfully.
+REV00283,APP03108,C03108,2025-03-14,Mikko Korhonen,AML,Approved,4,Compliance review completed successfully.
+REV00284,APP03116,C03116,2025-02-05,Mikko Korhonen,Sanctions Screening,Further Review,4,Additional documentation or review required.
+REV00285,APP03123,C03123,2025-02-14,Antti Laine,Enhanced Due Diligence,Approved,14,Compliance review completed successfully.
+REV00286,APP03128,C03128,2025-03-21,Laura Nieminen,AML,Approved,3,Compliance review completed successfully.
+REV00287,APP03133,C03133,2025-03-29,Laura Nieminen,AML,Rejected,9,Compliance concerns identified during review.
+REV00288,APP03135,C03135,2025-03-19,Janne Koskinen,Enhanced Due Diligence,Further Review,4,Additional documentation or review required.
+REV00289,APP03136,C03136,2025-03-04,Sanna Virtanen,KYC,Approved,10,Compliance review completed successfully.
+REV00290,APP03150,C03150,2025-10-23,Sanna Virtanen,Enhanced Due Diligence,Approved,7,Compliance review completed successfully.
+REV00291,APP03157,C03157,2025-12-01,Laura Nieminen,Sanctions Screening,Approved,5,Compliance review completed successfully.
+REV00292,APP03162,C03162,2025-03-01,Antti Laine,AML,Approved,7,Compliance review completed successfully.
+REV00293,APP03175,C03175,2025-01-27,Antti Laine,KYC,Approved,3,Compliance review completed successfully.
+REV00294,APP03178,C03178,2025-04-04,Laura Nieminen,Enhanced Due Diligence,Approved,5,Compliance review completed successfully.
+REV00295,APP03202,C03202,2025-06-21,Antti Laine,AML,Further Review,3,Additional documentation or review required.
+REV00296,APP03217,C03217,2025-09-03,Laura Nieminen,AML,Approved,5,Compliance review completed successfully.
+REV00297,APP03222,C03222,2025-07-17,Sanna Virtanen,Enhanced Due Diligence,Approved,8,Compliance review completed successfully.
+REV00298,APP03235,C03235,2025-04-03,Mikko Korhonen,KYC,Further Review,2,Additional documentation or review required.
+REV00299,APP03257,C03257,2025-09-29,Laura Nieminen,Enhanced Due Diligence,Rejected,3,Compliance concerns identified during review.
+REV00300,APP03258,C03258,2025-11-13,Mikko Korhonen,KYC,Approved,10,Compliance review completed successfully.
+REV00301,APP03261,C03261,2025-05-01,Sanna Virtanen,Sanctions Screening,Approved,6,Compliance review completed successfully.
+REV00302,APP03266,C03266,2025-11-06,Antti Laine,Sanctions Screening,Approved,5,Compliance review completed successfully.
+REV00303,APP03267,C03267,2025-07-22,Laura Nieminen,KYC,Rejected,9,Compliance concerns identified during review.
+REV00304,APP03283,C03283,2025-01-16,Janne Koskinen,AML,Rejected,10,Compliance concerns identified during review.
+REV00305,APP03291,C03291,2025-03-18,Maria Heikkinen,KYC,Approved,2,Compliance review completed successfully.
+REV00306,APP03301,C03301,2025-09-08,Laura Nieminen,Enhanced Due Diligence,Approved,5,Compliance review completed successfully.
+REV00307,APP03307,C03307,2025-11-23,Mikko Korhonen,Sanctions Screening,Approved,6,Compliance review completed successfully.
+REV00308,APP03310,C03310,2025-08-02,Mikko Korhonen,KYC,Approved,12,Compliance review completed successfully.
+REV00309,APP03316,C03316,2025-04-10,Sanna Virtanen,Enhanced Due Diligence,Approved,3,Compliance review completed successfully.
+REV00310,APP03330,C03330,2025-07-04,Janne Koskinen,KYC,Approved,7,Compliance review completed successfully.
+REV00311,APP03331,C03331,2025-09-26,Antti Laine,AML,Approved,9,Compliance review completed successfully.
+REV00312,APP03333,C03333,2025-12-23,Laura Nieminen,Sanctions Screening,Approved,5,Compliance review completed successfully.
+REV00313,APP03352,C03352,2025-10-24,Janne Koskinen,Enhanced Due Diligence,Approved,4,Compliance review completed successfully.
+REV00314,APP03371,C03371,2025-04-27,Antti Laine,Enhanced Due Diligence,Further Review,8,Additional documentation or review required.
+REV00315,APP03379,C03379,2025-10-21,Antti Laine,KYC,Rejected,6,Compliance concerns identified during review.
+REV00316,APP03390,C03390,2025-05-09,Janne Koskinen,AML,Further Review,11,Additional documentation or review required.
+REV00317,APP03404,C03404,2025-07-25,Laura Nieminen,AML,Approved,15,Compliance review completed successfully.
+REV00318,APP03421,C03421,2025-09-27,Mikko Korhonen,Sanctions Screening,Approved,9,Compliance review completed successfully.
+REV00319,APP03433,C03433,2025-06-19,Janne Koskinen,Sanctions Screening,Approved,7,Compliance review completed successfully.
+REV00320,APP03442,C03442,2025-12-14,Janne Koskinen,KYC,Approved,7,Compliance review completed successfully.
+REV00321,APP03454,C03454,2025-08-06,Laura Nieminen,KYC,Approved,15,Compliance review completed successfully.
+REV00322,APP03458,C03458,2025-02-26,Sanna Virtanen,KYC,Approved,10,Compliance review completed successfully.
+REV00323,APP03471,C03471,2025-03-14,Mikko Korhonen,KYC,Rejected,12,Compliance concerns identified during review.
+REV00324,APP03472,C03472,2025-09-10,Sanna Virtanen,AML,Further Review,9,Additional documentation or review required.
+REV00325,APP03484,C03484,2025-05-30,Antti Laine,KYC,Further Review,13,Additional documentation or review required.
+REV00326,APP03489,C03489,2025-05-06,Laura Nieminen,KYC,Rejected,3,Compliance concerns identified during review.
+REV00327,APP03508,C03508,2025-09-20,Antti Laine,Enhanced Due Diligence,Rejected,7,Compliance concerns identified during review.
+REV00328,APP03522,C03522,2025-08-07,Antti Laine,AML,Further Review,6,Additional documentation or review required.
+REV00329,APP03526,C03526,2025-05-26,Antti Laine,AML,Approved,4,Compliance review completed successfully.
+REV00330,APP03532,C03532,2025-11-29,Janne Koskinen,KYC,Approved,12,Compliance review completed successfully.
+REV00331,APP03544,C03544,2025-06-23,Laura Nieminen,AML,Rejected,9,Compliance concerns identified during review.
+REV00332,APP03550,C03550,2025-10-21,Mikko Korhonen,KYC,Approved,6,Compliance review completed successfully.
+REV00333,APP03551,C03551,2025-10-28,Mikko Korhonen,AML,Approved,4,Compliance review completed successfully.
+REV00334,APP03568,C03568,2025-01-20,Antti Laine,Sanctions Screening,Approved,11,Compliance review completed successfully.
+REV00335,APP03577,C03577,2025-07-27,Sanna Virtanen,Enhanced Due Diligence,Approved,7,Compliance review completed successfully.
+REV00336,APP03594,C03594,2025-03-27,Sanna Virtanen,Sanctions Screening,Approved,6,Compliance review completed successfully.
+REV00337,APP03604,C03604,2025-03-26,Antti Laine,Enhanced Due Diligence,Approved,6,Compliance review completed successfully.
+REV00338,APP03609,C03609,2025-06-04,Sanna Virtanen,KYC,Further Review,8,Additional documentation or review required.
+REV00339,APP03613,C03613,2025-12-24,Mikko Korhonen,AML,Approved,3,Compliance review completed successfully.
+REV00340,APP03660,C03660,2025-06-28,Laura Nieminen,AML,Further Review,5,Additional documentation or review required.
+REV00341,APP03672,C03672,2025-10-11,Maria Heikkinen,AML,Approved,15,Compliance review completed successfully.
+REV00342,APP03690,C03690,2025-07-31,Laura Nieminen,AML,Approved,8,Compliance review completed successfully.
+REV00343,APP03708,C03708,2025-03-12,Laura Nieminen,KYC,Rejected,7,Compliance concerns identified during review.
+REV00344,APP03718,C03718,2025-09-11,Sanna Virtanen,KYC,Approved,6,Compliance review completed successfully.
+REV00345,APP03729,C03729,2025-12-09,Laura Nieminen,KYC,Approved,3,Compliance review completed successfully.
+REV00346,APP03730,C03730,2025-07-07,Laura Nieminen,KYC,Approved,3,Compliance review completed successfully.
+REV00347,APP03734,C03734,2025-11-23,Sanna Virtanen,KYC,Approved,2,Compliance review completed successfully.
+REV00348,APP03738,C03738,2025-09-09,Sanna Virtanen,AML,Approved,7,Compliance review completed successfully.
+REV00349,APP03739,C03739,2025-03-06,Mikko Korhonen,Enhanced Due Diligence,Approved,7,Compliance review completed successfully.
+REV00350,APP03755,C03755,2025-09-04,Janne Koskinen,Enhanced Due Diligence,Approved,6,Compliance review completed successfully.
+REV00351,APP03767,C03767,2025-02-19,Sanna Virtanen,KYC,Further Review,10,Additional documentation or review required.
+REV00352,APP03769,C03769,2025-07-20,Mikko Korhonen,Enhanced Due Diligence,Rejected,8,Compliance concerns identified during review.
+REV00353,APP03786,C03786,2025-09-28,Maria Heikkinen,Sanctions Screening,Approved,6,Compliance review completed successfully.
+REV00354,APP03796,C03796,2025-03-11,Laura Nieminen,Enhanced Due Diligence,Further Review,7,Additional documentation or review required.
+REV00355,APP03809,C03809,2025-05-01,Laura Nieminen,Enhanced Due Diligence,Further Review,6,Additional documentation or review required.
+REV00356,APP03813,C03813,2025-07-14,Maria Heikkinen,KYC,Approved,7,Compliance review completed successfully.
+REV00357,APP03815,C03815,2025-10-25,Janne Koskinen,AML,Further Review,14,Additional documentation or review required.
+REV00358,APP03818,C03818,2025-08-03,Laura Nieminen,Enhanced Due Diligence,Approved,3,Compliance review completed successfully.
+REV00359,APP03820,C03820,2025-08-26,Mikko Korhonen,KYC,Approved,5,Compliance review completed successfully.
+REV00360,APP03823,C03823,2026-01-03,Sanna Virtanen,AML,Approved,7,Compliance review completed successfully.
+REV00361,APP03824,C03824,2025-01-25,Maria Heikkinen,KYC,Approved,9,Compliance review completed successfully.
+REV00362,APP03825,C03825,2025-10-28,Mikko Korhonen,Enhanced Due Diligence,Approved,10,Compliance review completed successfully.
+REV00363,APP03832,C03832,2025-05-16,Laura Nieminen,Sanctions Screening,Approved,10,Compliance review completed successfully.
+REV00364,APP03833,C03833,2025-03-21,Laura Nieminen,Enhanced Due Diligence,Approved,9,Compliance review completed successfully.
+REV00365,APP03842,C03842,2025-01-07,Mikko Korhonen,Enhanced Due Diligence,Approved,3,Compliance review completed successfully.
+REV00366,APP03853,C03853,2025-04-05,Sanna Virtanen,AML,Further Review,6,Additional documentation or review required.
+REV00367,APP03857,C03857,2025-04-09,Sanna Virtanen,Sanctions Screening,Approved,6,Compliance review completed successfully.
+REV00368,APP03865,C03865,2025-06-29,Antti Laine,KYC,Further Review,4,Additional documentation or review required.
+REV00369,APP03869,C03869,2025-01-15,Sanna Virtanen,Sanctions Screening,Approved,3,Compliance review completed successfully.
+REV00370,APP03875,C03875,2025-04-03,Antti Laine,Sanctions Screening,Rejected,5,Compliance concerns identified during review.
+REV00371,APP03886,C03886,2025-09-05,Antti Laine,AML,Further Review,7,Additional documentation or review required.
+REV00372,APP03887,C03887,2025-04-12,Antti Laine,Enhanced Due Diligence,Approved,10,Compliance review completed successfully.
+REV00373,APP03900,C03900,2025-08-19,Laura Nieminen,AML,Rejected,8,Compliance concerns identified during review.
+REV00374,APP03901,C03901,2025-10-21,Janne Koskinen,KYC,Approved,3,Compliance review completed successfully.
+REV00375,APP03903,C03903,2025-02-18,Laura Nieminen,Enhanced Due Diligence,Approved,6,Compliance review completed successfully.
+REV00376,APP03909,C03909,2025-02-10,Sanna Virtanen,Sanctions Screening,Further Review,3,Additional documentation or review required.
+REV00377,APP03911,C03911,2025-01-29,Antti Laine,Enhanced Due Diligence,Rejected,15,Compliance concerns identified during review.
+REV00378,APP03915,C03915,2025-03-02,Laura Nieminen,Sanctions Screening,Further Review,10,Additional documentation or review required.
+REV00379,APP03918,C03918,2025-04-20,Antti Laine,Enhanced Due Diligence,Approved,8,Compliance review completed successfully.
+REV00380,APP03919,C03919,2025-03-21,Maria Heikkinen,KYC,Approved,6,Compliance review completed successfully.
+REV00381,APP03932,C03932,2025-03-25,Antti Laine,Enhanced Due Diligence,Approved,11,Compliance review completed successfully.
+REV00382,APP03935,C03935,2025-10-10,Mikko Korhonen,KYC,Rejected,9,Compliance concerns identified during review.
+REV00383,APP03939,C03939,2025-02-09,Janne Koskinen,Enhanced Due Diligence,Approved,8,Compliance review completed successfully.
+REV00384,APP03952,C03952,2025-04-28,Sanna Virtanen,KYC,Approved,15,Compliance review completed successfully.
+REV00385,APP03956,C03956,2025-11-30,Mikko Korhonen,Sanctions Screening,Rejected,7,Compliance concerns identified during review.
+REV00386,APP03962,C03962,2025-05-17,Maria Heikkinen,KYC,Approved,9,Compliance review completed successfully.
+REV00387,APP03964,C03964,2025-01-24,Laura Nieminen,AML,Further Review,10,Additional documentation or review required.
+REV00388,APP03973,C03973,2025-07-27,Sanna Virtanen,KYC,Approved,7,Compliance review completed successfully.
+REV00389,APP03981,C03981,2025-01-04,Janne Koskinen,AML,Further Review,4,Additional documentation or review required.
+REV00390,APP03982,C03982,2025-05-10,Maria Heikkinen,Sanctions Screening,Rejected,8,Compliance concerns identified during review.
+REV00391,APP03983,C03983,2025-11-03,Janne Koskinen,Enhanced Due Diligence,Rejected,3,Compliance concerns identified during review.
+REV00392,APP03985,C03985,2025-07-27,Antti Laine,KYC,Approved,5,Compliance review completed successfully.
+REV00393,APP03990,C03990,2025-03-29,Janne Koskinen,KYC,Approved,10,Compliance review completed successfully.

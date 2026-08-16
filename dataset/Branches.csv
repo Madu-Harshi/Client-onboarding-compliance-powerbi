@@ -1,0 +1,11 @@
+Branch_ID,Branch_Name,Region,Branch_Type,Annual_Capacity
+B001,Helsinki Central,Uusimaa,Metropolitan,950
+B002,Espoo,Uusimaa,Metropolitan,850
+B003,Tampere Central,Pirkanmaa,Regional,800
+B004,Turku Central,Southwest Finland,Regional,750
+B005,Oulu,North Ostrobothnia,Regional,700
+B006,Jyväskylä,Central Finland,Regional,600
+B007,Lahti,Päijät-Häme,Regional,550
+B008,Kuopio,North Savo,Regional,500
+B009,Lappeenranta,South Karelia,Local,450
+B010,Vaasa,Ostrobothnia,Local,450

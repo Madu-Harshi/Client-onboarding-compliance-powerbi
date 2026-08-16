@@ -1,0 +1,22 @@
+RM_ID,RM_Name,Branch_ID,Experience_Years,Capacity,Status
+RM001,Janne Korhonen,B001,10,165,Active
+RM002,Markus Mäkinen,B001,5,168,Active
+RM003,Elias Virtanen,B001,15,177,Active
+RM004,Anna Virtanen,B002,8,154,Active
+RM005,Kaisa Lehtonen,B002,2,145,Active
+RM006,Sanna Heinonen,B003,15,189,Active
+RM007,Sara Lehtonen,B003,10,150,Active
+RM008,Antti Heinonen,B004,15,196,Active
+RM009,Maria Mäkinen,B004,8,188,Active
+RM010,Aino Virtanen,B005,4,144,Active
+RM011,Janne Laine,B005,13,203,Active
+RM012,Maria Kallio,B006,3,161,Active
+RM013,Sara Järvinen,B006,5,149,Active
+RM014,Laura Järvinen,B007,11,195,Active
+RM015,Aleksi Saarinen,B007,13,201,Active
+RM016,Sanna Heinonen,B008,4,122,Active
+RM017,Markus Kallio,B008,11,160,Active
+RM018,Markus Rantanen,B009,5,149,Active
+RM019,Maria Koskinen,B009,13,175,Active
+RM020,Juho Laine,B010,8,182,Active
+RM021,Maria Heinonen,B010,4,158,Active
