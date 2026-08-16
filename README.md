@@ -604,9 +604,9 @@ This project represents one way I am building on that foundation by applying dig
 The portfolio is intended to demonstrate not only technical tool usage, but also the ability to understand a business context, structure information, identify relevant questions and communicate insights to decision-makers.
 
 ---
+## Repository Contents
 
-# Repository Contents
-
+```text
 Client-onboarding-compliance-powerbi/
 
 ├── README.md
