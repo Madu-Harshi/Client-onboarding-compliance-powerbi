@@ -609,18 +609,20 @@ The portfolio is intended to demonstrate not only technical tool usage, but also
 
 Client-onboarding-compliance-powerbi/
 
-    README.md
+├── README.md
 
-    Client_Onboarding_Compliance_Dashboard.pdf
+├── dashboard/
+│   └── Client_Onboarding_Compliance_Dashboard.pdf
 
-    dataset/
-        Branches.csv
-        Relationship_Managers.csv
-        Customer_Master.csv
-        Client_Onboarding.csv
-        Compliance_Reviews.csv
+├── dataset/
+│   ├── Branches.csv
+│   ├── Relationship_Managers.csv
+│   ├── Customer_Master.csv
+│   ├── Client_Onboarding.csv
+│   └── Compliance_Reviews.csv
 
-    powerbi_dataset_generator.py
+└── data_generation/
+    └── powerbi_dataset_generator.py
 
 ---
 
