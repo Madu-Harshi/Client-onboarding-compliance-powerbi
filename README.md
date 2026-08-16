@@ -624,6 +624,8 @@ Client-onboarding-compliance-powerbi/
 └── data_generation/
     └── powerbi_dataset_generator.py
 
+```
+
 ---
 
 # Disclaimer
